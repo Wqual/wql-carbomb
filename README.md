@@ -9,6 +9,7 @@ This script will allow you to place an explosive on any vehicle, after which the
 **Dependencies:**
 
 - ox_inventory
+  
 
 **Download:** https://github.com/Wqual/wql-carbomb
 
